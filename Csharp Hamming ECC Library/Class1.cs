@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp_Hamming_ECC_Library {
-	class Program {
-		static void Main(string[] args) {
-		}
-	}
+namespace Csharp_Hamming_ECC_Library
+{
+    public class Class1
+    {
+    }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Csharp Hamming ECC Library")]
+[assembly: AssemblyTitle("ECC Tester")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Csharp Hamming ECC Library")]
+[assembly: AssemblyProduct("ECC Tester")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("27a2a8c6-fec4-479e-b336-0d690159fcee")]
+[assembly: Guid("499fb8cf-65bb-4360-b556-7d3f29d2f3a6")]
 
 // Version information for an assembly consists of the following four values:
 //
